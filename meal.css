@@ -1,0 +1,109 @@
+.aside {
+    width: 27.5%;
+    margin: 52px auto;
+    font-size: 24px;
+    height: auto;
+}
+
+h9 {
+    line-height: 60px;
+}
+
+.aside {
+    float: left;
+    height: 700px;
+}
+
+.aside i {
+    margin-right: 15px;
+}
+
+.aside li {
+    width: 65%;
+    line-height: 1.8;
+    border-bottom: 1px solid #3D1101;
+}
+
+.meals {
+    margin-top: 70px;
+}
+
+.search {
+    margin-bottom: 20px;
+}
+
+.search input {
+    width: 424px;
+    height: 20px;
+    border: 3px solid #3D1101;
+
+}
+
+.search button {
+    flex: 0 1 auto;
+    height: 28px;
+    float: none;
+
+    margin-left: -10px;
+    border: 5px solid #3D1101;
+    background: #3D1101;
+    color: #ffffff;
+
+}
+
+.meals-search {
+    float: right;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.meals-search li {
+    display: inline;
+    margin-left: 15px;
+}
+
+.packages {
+    margin-top: 20px;
+    width: 220px;
+    float: left;
+    height: 280px;
+    border: 1px solid #EFE9E7;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 20px;
+    box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.16);
+}
+
+.packages img {
+    width: 220px;
+    height: 120px;
+    margin-bottom: 15px;
+}
+
+.mealName-English {
+    font-size: 12px;
+}
+
+.packages hr {
+    width: 91px;
+    color: #3D1101;
+    border: #3D1101 1px solid;
+}
+
+.price {
+    font-style: italic;
+    font-weight: 700;
+    color: #3D1101;
+}
+
+.packages button {
+    width: 200px;
+    height: 28px;
+    color: #ff5e45;
+    border: 2px solid #ff5e45;
+    background: #EFE9E7;
+    padding: 3px;
+    margin-right: 10px;
+
+}

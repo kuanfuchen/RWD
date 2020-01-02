@@ -1,0 +1,135 @@
+/* sign */
+
+.sign {
+
+    color: #3d1101;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sign h9 {
+    display: block;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.sign p {
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+
+
+.signup {
+    max-width: 300px;
+    height: 275px;
+    text-align: left;
+    margin-left: 35%;
+    margin-top: 35px;
+    border: 1px solid #efe9e7;
+    box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.16);
+
+}
+
+.signup h10 {
+    display: block;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    margin-left: 121px;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+    margin-left: 15px;
+}
+
+.signup input {
+    margin-left: 15px;
+    height: 24px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.forgetPass {
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #ff5e45;
+    display: block;
+}
+
+.signup-btn,
+.signin {
+    margin: 0;
+    margin-left: 15px;
+    width: 125px;
+    height: 32px;
+    margin-top: 30px;
+
+}
+
+/* register */
+.register {
+    width: 620px;
+    height: 320px;
+    margin-left: 202px;
+    margin-top: 35px;
+    text-align: left;
+    border: 1px solid #efe9e7;
+    box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.16);
+    border-top: 3px solid #ff5e45;
+}
+
+.register h10 {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.terms {
+    width: 285px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 15px;
+
+}
+
+.terms p {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.registerData {
+    width: 285px;
+    float: left;
+}
+
+.registerData input {
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.reg-btn {
+    margin-top: 30px;
+    margin-left: 120px;
+    background: #F56C23;
+    width: 120px;
+    height: 32px;
+    color: #fff;
+    border: 3px solid #F56C23;
+    border-radius: 1px;
+}
+
+.reg-btn:hover {
+    background: #ff5e45;
+    border: 3px solid #ff5e45;
+}
